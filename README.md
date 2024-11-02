@@ -2,3 +2,5 @@
 
 This is my practical implementation of every aspect of the freecodecamp git and github crash course video
 link: https://www.youtube.com/watch?v=RGOj5yH7evk
+
+### Step 1: Setting Up Git and GitHub
